@@ -5,9 +5,9 @@
 This repository is for team members to test their SDL2 skills and create a project according to the code given in the book.
 Read the instructions below to understand how to work as a team.
 
-## Working as a group
+## Working as a team
 
-##### _EACH TEAM MEMBER MUST CLONE THE PROJECT — DO NOT FORK IT!_
+##### _EACH TEAM MEMBER MUST CLONE THE PROJECT â€” DO NOT FORK IT!_
 
 ## Adding a new feature
 
@@ -24,7 +24,7 @@ If your pull request gets at least 1 approval then it can be merged to master.
 $ git pull origin master
 ```
 
-Don’t ever work on the master branch. Let’s refresh your memories on how to make branches:
+Donâ€™t ever work on the master branch. Letâ€™s refresh your memories on how to make branches:
 
 ```sh
 $ git checkout -b branchName
@@ -51,7 +51,7 @@ organization on GitHub, then to branches.
 
 ##### If you've completed the steps above, you're ready to code on your branch now!
 
-*You add and commit your files the same way you've always done it when you’re on a branch, but:*
+*You add and commit your files the same way you've always done it when youâ€™re on a branch, but:*
 
 > BEFORE YOU COMMIT, MAKE SURE YOU ARE ON YOUR BRANCH, NOT MASTER.
 
@@ -61,7 +61,7 @@ After you add and commit your files, push your changes to your branch on GitHub:
 $ git push origin sameBranchName
 ```
 
-##### Now, if you’re ready to make a pull request in order to merge your branch's code with Master, head over to GitHub:
+##### Now, if youâ€™re ready to make a pull request in order to merge your branch's code with Master, head over to GitHub:
 
 * _Your Organization >> Branches >> Your Branch >> Compare & Pull Request_
 * _YOUR PULL REQUEST NEEDS AT LEAST 1 APPROVAL IN ORDER TO MERGE_
@@ -77,7 +77,7 @@ Make sure your work in good shape and committed, so it won't be a difficult proc
 ```sh
 # on your branch
 $ git add -A
-$ git commit -m “blah"
+$ git commit -m â€œblah"
 $ git checkout master
 $ git pull origin master
 ```
@@ -125,8 +125,8 @@ $ git branch -D branchName
 
 ### _Important Reminders:_
 
-* Tell your team every time a pull request has been merged with master. Don’t let your team members fall behind master.
-* Pull often, just to be sure. Even if no one has told you about changes on master, pull anyways. It doesn’t hurt.
+* Tell your team every time a pull request has been merged with master. Donâ€™t let your team members fall behind master.
+* Pull often, just to be sure. Even if no one has told you about changes on master, pull anyways. It doesnâ€™t hurt.
 * Under Branches on GitHub you can find a visual representation of how far behind or head your branch is from master.
 * Double check with team members before merging.
 * Make sure you are on a branch before you start working. Get in the habit of checking.
